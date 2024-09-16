@@ -1,0 +1,10 @@
+BYTETRIBE_ENERGYCONSERVATION/
+│
+├── sensors.py           # Code to handle IoT sensor simulation
+├── database.py          # Code for database connection and data storage
+├── ml_model.py          # Machine Learning model for energy prediction
+├── app.py               # Flask app to create the web dashboard
+├── requirements.txt     # Python dependencies
+├── README.md            # Project documentation
+└── templates/
+    └── dashboard.html   # HTML template for Flask dashboard
