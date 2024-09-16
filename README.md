@@ -1,11 +1,19 @@
-# BYTETRIBE_ENERGYCONSERVATION
 # ByteTribe Energy Conservation
-# Overview
-# ByteTribe Energy Conservation is a smart resource management application designed to optimize energy and water usage in home appliances. Utilizing machine learning and IoT technology,   	this software platform integrates with various appliances like refrigerators, air conditioners, washing machines, and desert coolers to provide actionable insights and automated 					adjustments for improved resource efficiency.
-#
-# Features:-
-# 	Real-Time Monitoring: Track energy and water usage of appliances in real-time.
-# 	Data Analysis: Analyze usage patterns to predict optimal settings.
-# 	Automated Adjustments: Automatically adjust appliance settings based on data analysis.
-# 	Personalized Recommendations: Use machine learning to tailor settings based on user habits and environmental factors.
-# 	User Interface: Web-based dashboard to view data and manage settings.
+
+## Overview
+
+This project is a smart resource conservation application designed to optimize energy and water usage in home appliances, specifically starting with refrigerators. It leverages IoT sensors and machine learning algorithms to monitor appliance usage and automatically adjust settings to ensure maximum efficiency.
+
+## Features
+
+- Real-time monitoring of temperature, energy usage, and door status.
+- Data analysis using machine learning to optimize refrigerator settings.
+- Automated adjustments for energy efficiency based on predictive analysis.
+- Web-based user interface for monitoring and control.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone git@github.com:himan0109/BYTETRIBE_ENERGYCONSERVATION.git
